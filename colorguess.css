@@ -1,0 +1,53 @@
+.square{
+    width: 30%;
+    background-color: purple;
+    padding-bottom: 30%;
+    float:left;
+    margin: 1.66%;
+    border-radius: 15%;
+    transition: background 0.6s;
+    
+}
+#container {
+    max-width: 600px;
+    margin: 20px auto;
+}
+body{
+    background-color: #232323;
+    margin: 0;
+}
+#bl{
+    color:white;
+    text-align: center;
+    background-color: steelblue;
+    margin: 0;
+    font-weight:normal;
+
+}
+#checkshow{color:black;
+    display: inline-block;
+    width:20%;
+}
+{color:white;}
+#stripe{
+    background-color: white;
+    height:30px;
+    text-align: center;
+    }
+.colored{color:white;
+    background-color: steelblue;}
+button{
+    background:none;
+    border:none;
+    text-transform: uppercase;
+    height: 100%;
+    font-weight: 700;
+    color:steelblue;
+    transition: all 0.4s;
+    outline: none;
+    
+}
+button:hover {
+    color:white;
+    background-color: steelblue;
+}
